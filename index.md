@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+Hi there! Welcome to my page!
+
+I am currently pursuing M.Tech. in CDS at IISc Banglore. I have a strong academic background, graduating from IIIT Bhubaneswar with an 8.92 CGPA. Also, I have 2 years experience of working at Dell Technologies as a Software Engineer-IT-2.
+
+In my previous role at Dell, I was responsible for developing and maintaining web applications using Angular 2+, Spring Boot (Java 8), PCF, and Oracle queries. I also had experience with monitoring and remediating vulnerabilities, as well as providing production support.
+
+I am a highly motivated and results-oriented individual with a passion for learning and innovation. One of my goals is to publish a paper in a reputed journal.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
