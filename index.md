@@ -7,7 +7,7 @@ I am currently pursuing **M.Tech. in CDS at IISc Banglore**. I have a strong aca
 
 In my previous role at Dell Technologies, I was responsible for developing and maintaining web applications for **Logistics and Supply Chain Management using Angular 2+, Spring Boot (Java 8), PCF, Layer 7 APIs and Oracle queries**. I also had experience with monitoring and remediating vulnerabilities, as well as providing steadfast production support.
 
-I am a highly dedicated and results-oriented individual with a passion for learning and innovation and strong worth ethics. 
+I am a highly dedicated and results-oriented individual with strong work ethics and a passion for learning and innovation. 
 
 Feel free to visit [my YouTube channel](https://www.youtube.com/channel/UCnqvCb7JUuQgaQJUlFBYnmw).
 
@@ -16,7 +16,7 @@ Feel free to visit [my YouTube channel](https://www.youtube.com/channel/UCnqvCb7
 
 | Qualification | Organization / Board                 | Year of Passing | CGPA/Percentage|
 |:------------- |:-------------------------------------|:----------------|:---------------|
-|M. Tech.       |IISc Banglore / Autonomous            |2025(Expected)   |                |
+|M. Tech.       |IISc Banglore / Autonomous            |2025 (Expected)  |                |
 |B. Tech.       |IIIT Bhubaneswar / Autonomous         |2021             |8.92/10         |
 |Class 12       |ODM Public School, Patia / CBSE       |2017             |95.6%           |
 |Class 10       |Bethany Convent School, Paradip / ICSE|2015             |96.4%           |
