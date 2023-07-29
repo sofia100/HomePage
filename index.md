@@ -9,9 +9,11 @@ In my previous role at Dell Technologies, I was responsible for developing and m
 
 I am a highly dedicated and results-oriented individual with a passion for learning and innovation and strong worth ethics. 
 
-Feel free to visit [my youtube channel](https://www.youtube.com/channel/UCnqvCb7JUuQgaQJUlFBYnmw).
+Feel free to visit [my YouTube channel](https://www.youtube.com/channel/UCnqvCb7JUuQgaQJUlFBYnmw).
 
 ## Educational Background
+
+
 | Qualification | Organization / Board                 | Year of Passing | CGPA/Percentage|
 |:------------- |:-------------------------------------|:----------------|:---------------|
 |M. Tech.       |IISc Banglore / Autonomous            |2025(Expected)   |                |
