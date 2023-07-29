@@ -7,18 +7,17 @@ I am currently pursuing **M.Tech. in CDS at IISc Banglore**. I have a strong aca
 
 In my previous role at Dell Technologies, I was responsible for developing and maintaining web applications for **Logistics and Supply Chain Management using Angular 2+, Spring Boot (Java 8), PCF, Layer 7 APIs and Oracle queries**. I also had experience with monitoring and remediating vulnerabilities, as well as providing steadfast production support.
 
-I am a highly motivated and results-oriented individual with a passion for learning and innovation.
+I am a highly dedicated and results-oriented individual with a passion for learning and innovation and strong worth ethics. 
 
 Feel free to visit [my youtube channel](https://www.youtube.com/channel/UCnqvCb7JUuQgaQJUlFBYnmw).
 
 ## Educational Background
-| Qualification| Organization / Board                 | Year of Passing | CGPA/Percentage|
-|:-------------|:-------------------------------------|:----------------|:---------------|
-
-|M. Tech.      |IISc Banglore / Autonomous            |2025(Expected)   |:---------------|
-|B. Tech.      |IIIT Bhubaneswar / Autonomous         |2021             |8.92/10         |
-|Class 12      |ODM Public School, Patia / CBSE       |2017             |95.6%           |
-|Class 10      |Bethany Convent School, Paradip / ICSE|2015             |96.4%           |
+| Qualification | Organization / Board                 | Year of Passing | CGPA/Percentage|
+|:------------- |:-------------------------------------|:----------------|:---------------|
+|M. Tech.       |IISc Banglore / Autonomous            |2025(Expected)   |                |
+|B. Tech.       |IIIT Bhubaneswar / Autonomous         |2021             |8.92/10         |
+|Class 12       |ODM Public School, Patia / CBSE       |2017             |95.6%           |
+|Class 10       |Bethany Convent School, Paradip / ICSE|2015             |96.4%           |
 
 
 ### Professional Experience:
@@ -44,17 +43,17 @@ Feel free to visit [my youtube channel](https://www.youtube.com/channel/UCnqvCb7
 
 <dl>
 <dt>From IISc Banglore</dt>
-<dd>Introduction to Data Science</dd>
-<dd>Introduction to Scalable System</dd>
-<dd>Numerical Optimization</dd>
-<dd>Numerical Methods</dd>
-<dd>Numerical Linear Algebra</dd>
+<dd>- Introduction to Data Science</dd>
+<dd>- Introduction to Scalable System</dd>
+<dd>- Numerical Optimization</dd>
+<dd>- Numerical Methods</dd>
+<dd>- Numerical Linear Algebra</dd>
 
 <dt>From IIIT Bhubaneswar</dt>
-<dd>Principles of Soft Computing</dd>
-<dd>Computer Graphics</dd>
-<dd>Optimization in Engineering</dd>
-<dd>Data and Web Mining</dd>
+<dd>- Principles of Soft Computing</dd>
+<dd>- Computer Graphics</dd>
+<dd>- Optimization in Engineering</dd>
+<dd>- Data and Web Mining</dd>
 
 </dl>
 
